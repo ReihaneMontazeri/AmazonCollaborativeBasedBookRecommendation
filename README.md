@@ -168,9 +168,5 @@ Top recommendations for user A12345XYZ:
 
 ## 💻 Author
 
-Reihan — Computer Engineer & AI Enthusiast
+Reihane Montazeri — Computer Engineer & AI Enthusiast
 For feedback or suggestions, feel free to reach out!
-
----
-
-Would you like me to prepare a downloadable `README.md` file or push this to your GitHub repo via instructions or zipped content?
